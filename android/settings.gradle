@@ -1,0 +1,3 @@
+rootProject.name = 'anthonynarralistcom_anthon_516'
+
+include ':app'
